@@ -6,6 +6,6 @@ sdfdsfds		$uri = 'https://';
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/xampp/');
 	exit;
-        dsfdsfds
+        dsfdsfdsfdgdfgd fgdfgfdg
 ?>
 Something is wrong with the XAMPP installation :-(
